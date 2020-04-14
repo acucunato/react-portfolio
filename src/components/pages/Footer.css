@@ -1,0 +1,22 @@
+.footer {
+  align-content: center;
+  justify-content: center;
+  width: 100%;
+  background-color: #d9dde0;
+  height: auto;
+  margin-top: 50px;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+
+.foot-row {
+  align-content: center;
+  justify-content: center;
+}
+
+.foot-item {
+  justify-content: center;
+  color: white;
+  display: inline-flex;
+  flex-wrap: wrap;
+}

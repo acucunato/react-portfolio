@@ -14,7 +14,7 @@ function NavLinks() {
               <ul className="nav justify-content-center">
                 <li className="nav-item">
                   <a className="nav-link" href="index.html">
-                    home
+                    about
                   </a>
                 </li>
                 <li className="nav-item">
