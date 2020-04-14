@@ -1,0 +1,50 @@
+h3.port-header {
+  color: #ea6f7b;
+  font-family: "Galada";
+  font-size: 45px;
+  text-align: center;
+}
+
+p {
+  font-family: "Josefin Sans";
+  font-weight: 300;
+  font-size: 18px;
+  letter-spacing: 1px;
+  line-height: 24px;
+  padding: 20px;
+  display: flex;
+}
+
+.repo-link {
+  font-size: 16px;
+  text-align: center;
+  align-content: center;
+  padding-left: 85px;
+}
+
+.relative {
+  position: relative;
+  width: 250px;
+  height: 250px;
+  justify-content: center;
+}
+
+.absolute {
+  position: absolute;
+  bottom: -15px;
+  left: 20px;
+  background-color: #f3cfd0;
+  width: 250px;
+  height: 50px;
+  text-align: center;
+  justify-content: center;
+}
+
+a.port-link {
+  font-family: "Josefin Sans";
+  font-size: 20px;
+  color: #ea6f7b;
+  text-transform: lowercase;
+  text-decoration: none;
+  padding-top: 10px;
+}

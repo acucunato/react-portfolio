@@ -14,6 +14,7 @@
 
 .right-nav-links {
   background-color: #f3cfd0;
+  font-weight: 300;
   height: 90px;
   width: auto;
   align-content: center;
@@ -32,6 +33,6 @@ a {
 }
 
 a:hover {
-  font-weight: bolder;
+  font-weight: bold;
   color: #ea6f7b;
 }

@@ -9,7 +9,7 @@ function Footer() {
         <div className="col-2 foot-item">
           <i className="fab fa-github mt-2 text-white"></i>
           <a className="footnav btn mx-2" href="https://github.com/acucunato">
-            Github
+            github
           </a>
         </div>
         <div className="col-2 foot-item">
@@ -18,7 +18,7 @@ function Footer() {
             className="footnav btn mx-2"
             href="https://www.linkedin.com/in/alyssacucunato"
           >
-            LinkedIn
+            linkedIn
           </a>
         </div>
         <div className="col-2 foot-item">
