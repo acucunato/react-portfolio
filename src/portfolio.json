@@ -2,42 +2,42 @@
   {
     "id": 1,
     "name": "pooch quest",
-    "photo": "./img/poochquest.jpg",
+    "photo": "https://i.ibb.co/HYxByHH/poochquest.jpg",
     "deploy": "https://acucunato.github.io/pooch-quest/",
     "github": "https://github.com/acucunato/pooch-quest"
   },
   {
     "id": 2,
     "name": "eat-da-burger",
-    "photo": "burgerlogger.jpg",
+    "photo": "https://i.ibb.co/862L6rW/burgerlogger.jpg",
     "deploy": "https://eatdaburger-acucunato.herokuapp.com/",
     "github": "https://github.com/acucunato/eat-da-burger"
   },
   {
     "id": 3,
     "name": "trip tips",
-    "photo": "triptips.jpg",
+    "photo": "https://i.ibb.co/7CRSjwV/triptips.jpg",
     "deploy": "https://grouptriptips.herokuapp.com/",
     "github": "hhttps://github.com/Didier-D-crypto/Project-2-Full-Stack-App"
   },
   {
     "id": 4,
-    "name": "harry potter trivia quiz",
-    "photo": "harrypotter.jpg",
+    "name": "trivia quiz",
+    "photo": "https://i.ibb.co/YBC9ytS/harrypotter.jpg",
     "deploy": "https://acucunato.github.io/trivia-quiz/",
     "github": "https://github.com/acucunato/trivia-quiz"
   },
   {
     "id": 5,
-    "name": "team profile generator",
-    "photo": "teamprofilegen.jpg",
+    "name": "profile generator",
+    "photo": "https://i.ibb.co/zbph1ht/teamprofgen.jpg",
     "deploy": "",
     "github": "https://github.com/acucunato/team-profile-generator"
   },
   {
     "id": 6,
     "name": "weather dashboard",
-    "photo": "weatherdashboard.jpg",
+    "photo": "https://i.ibb.co/0fwKZ5g/weatherdashboard.jpg",
     "deploy": "https://acucunato.github.io/weather-dashboard/",
     "github": "https://github.com/acucunato/weather-dashboard"
   }
