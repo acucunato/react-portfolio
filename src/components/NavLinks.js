@@ -1,7 +1,10 @@
 import React from "react";
 import "./NavLinks.css";
+import { Link, useLocation } from "react-router-dom";
 
 function NavLinks() {
+  const location = useLocation();
+
   return (
     <>
       <header className="shadow">
@@ -13,19 +16,40 @@ function NavLinks() {
             <div className="right-nav-links">
               <ul className="nav justify-content-center">
                 <li className="nav-item">
-                  <a className="nav-link" href="index.html">
+                  <Link
+                    to="/aboutme"
+                    className={
+                      location.pathname === "/aboutme"
+                        ? "nav-link active"
+                        : "nav-link a"
+                    }
+                  >
                     about
-                  </a>
+                  </Link>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="portfolio.html">
+                  <Link
+                    to="/portfolio"
+                    className={
+                      location.pathname === "/portfolio"
+                        ? "nav-link active"
+                        : "nav-link a"
+                    }
+                  >
                     portfolio
-                  </a>
+                  </Link>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="contact.html">
+                  <Link
+                    to="/contact"
+                    className={
+                      location.pathname === "/contact"
+                        ? "nav-link active"
+                        : "nav-link a"
+                    }
+                  >
                     contact
-                  </a>
+                  </Link>
                 </li>
               </ul>
             </div>

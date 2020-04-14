@@ -1,7 +1,5 @@
 import React, { Component } from "react";
 import "./Portfolio.css";
-// import poochquestpic from "../../img/poochquest.jpg";
-// import burgerpic from "../../img/burgerlogger.jpg";
 import portfolio from "../../portfolio.json";
 import PortfolioCard from "../pages/PortfolioCard";
 
