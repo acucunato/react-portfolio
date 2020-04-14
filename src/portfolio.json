@@ -10,35 +10,35 @@
     "id": 2,
     "name": "eat-da-burger",
     "photo": "burgerlogger.jpg",
-    "deploy": "https://acucunato.github.io/pooch-quest/",
-    "github": "https://github.com/acucunato/pooch-quest"
+    "deploy": "https://eatdaburger-acucunato.herokuapp.com/",
+    "github": "https://github.com/acucunato/eat-da-burger"
   },
   {
     "id": 3,
-    "name": "pooch quest",
-    "photo": "poochquest.jpg",
-    "deploy": "https://acucunato.github.io/pooch-quest/",
-    "github": "https://github.com/acucunato/pooch-quest"
+    "name": "trip tips",
+    "photo": "triptips.jpg",
+    "deploy": "https://grouptriptips.herokuapp.com/",
+    "github": "hhttps://github.com/Didier-D-crypto/Project-2-Full-Stack-App"
   },
   {
     "id": 4,
-    "name": "pooch quest",
-    "photo": "poochquest.jpg",
-    "deploy": "https://acucunato.github.io/pooch-quest/",
-    "github": "https://github.com/acucunato/pooch-quest"
+    "name": "harry potter trivia quiz",
+    "photo": "harrypotter.jpg",
+    "deploy": "https://acucunato.github.io/trivia-quiz/",
+    "github": "https://github.com/acucunato/trivia-quiz"
   },
   {
     "id": 5,
-    "name": "pooch quest",
-    "photo": "poochquest.jpg",
-    "deploy": "https://acucunato.github.io/pooch-quest/",
-    "github": "https://github.com/acucunato/pooch-quest"
+    "name": "team profile generator",
+    "photo": "teamprofilegen.jpg",
+    "deploy": "",
+    "github": "https://github.com/acucunato/team-profile-generator"
   },
   {
     "id": 6,
-    "name": "pooch quest",
-    "photo": "poochquest.jpg",
-    "deploy": "https://acucunato.github.io/pooch-quest/",
-    "github": "https://github.com/acucunato/pooch-quest"
+    "name": "weather dashboard",
+    "photo": "weatherdashboard.jpg",
+    "deploy": "https://acucunato.github.io/weather-dashboard/",
+    "github": "https://github.com/acucunato/weather-dashboard"
   }
 ]
