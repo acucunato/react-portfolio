@@ -3,8 +3,8 @@
 }
 
 .nav-name {
-  font-family: "Abril Fatface", cursive;
-  letter-spacing: 8px;
+  font-family: "Galada";
+  letter-spacing: 2px;
   color: #ea6f7b;
   position: relative;
   background-color: #d9dde0;
@@ -22,7 +22,7 @@
 }
 
 a {
-  font-family: "Abril Fatface", cursive;
+  font-family: "Josefin Sans";
   text-transform: lowercase;
   font-size: 26px;
   letter-spacing: 3px;

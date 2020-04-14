@@ -13,18 +13,18 @@ function NavLinks() {
             <div className="right-nav-links">
               <ul className="nav justify-content-center">
                 <li className="nav-item">
-                  <a className="nav-link active" href="index.html">
-                    Home
+                  <a className="nav-link" href="index.html">
+                    home
                   </a>
                 </li>
                 <li className="nav-item">
                   <a className="nav-link" href="portfolio.html">
-                    Portfolio
+                    portfolio
                   </a>
                 </li>
                 <li className="nav-item">
                   <a className="nav-link" href="contact.html">
-                    Contact
+                    contact
                   </a>
                 </li>
               </ul>

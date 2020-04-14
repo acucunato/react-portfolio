@@ -1,0 +1,25 @@
+.container {
+  background-color: whitesmoke !important;
+  color: #ea6f7b;
+  margin: 0px auto;
+  margin-top: 50px;
+  margin-bottom: 150px;
+  padding: 20px 10px 10px 10px;
+}
+
+h3 {
+  color: #ea6f7b;
+  font-family: "Galada";
+  font-size: 45px;
+}
+
+p {
+  font-family: "Josefin Sans";
+  letter-spacing: 2px;
+  line-height: 24px;
+  padding: 20px;
+  display: flex;
+}
+/* p @media (min-width: 576px) {
+    font-size: 32px;
+  } */
