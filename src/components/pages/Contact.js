@@ -1,43 +1,36 @@
-import React from "react";
+import React, { Component } from "react";
 import "./Contact.css";
+// import axios from "axios";
 
-function Contact() {
-  return (
-    <div className="mt-5 mb-15">
-      <h3 className="contact-header">let's get in touch</h3>
-      <form>
-        <div className="form-group">
-          <label for="exampleInputFullName1">full name</label>
-          <input
-            type="password"
-            className="form-control"
-            id="exampleInputFullName1"
-            placeholder="first and last"
-          />
+class Contact extends Component {
+  render() {
+    return (
+      <div className="mt-5 mb-15">
+        <h3 className="contact-header">let's get in touch</h3>
+        <br />
+        <br />
+        <div className="row">
+          <div className="col-lg-4 ml-auto text-center mb-3 mb-lg-0">
+            <i className="fab fa-github fa-4x"></i>
+            <br />
+            <a href="https://github.com/acucunato">github</a>
+          </div>
+          <div className="col-lg-4 mr-auto text-center">
+            <i className="fas fa-envelope fa-4x"></i>
+            <br />
+            <a className="email" href="mailto:acucunato18@gmail.com">
+              acucunato18@gmail.com
+            </a>
+          </div>
+          <div className="col-lg-4 mr-auto text-center">
+            <i className="fab fa-linkedin fa-4x"></i>
+            <br />
+            <a href="https://www.linkedin.com/in/alyssacucunato">linkedin</a>
+          </div>
         </div>
-        <div className="form-group">
-          <label for="exampleInputEmail1">email address</label>
-          <input
-            type="email"
-            className="form-control"
-            id="exampleInputEmail1"
-            placeholder="enter email"
-          />
-        </div>
-        <div className="form-group">
-          <label for="exampleFormControlTextarea1">message</label>
-          <textarea
-            className="form-control"
-            id="exampleFormControlTextarea1"
-            rows="3"
-          ></textarea>
-        </div>
-        <button type="submit" className="btn btn-contact">
-          submit
-        </button>
-      </form>
-    </div>
-  );
+      </div>
+    );
+  }
 }
 
 export default Contact;

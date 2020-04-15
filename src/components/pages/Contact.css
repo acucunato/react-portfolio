@@ -19,12 +19,6 @@ p {
   text-align: left;
 }
 
-.btn-contact {
-  color: #ea6f7b;
-  background-color: #f3cfd0;
-}
-
-.btn-contact:hover {
+i {
   color: #f3cfd0;
-  background-color: #ea6f7b;
 }
